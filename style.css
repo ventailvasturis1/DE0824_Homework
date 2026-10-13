@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #edf2f7, #dba4ec);
+    color: #222;
+}
+
+header, main, footer {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    margin-top: 30px;
+    border-radius: 8px;
+}
